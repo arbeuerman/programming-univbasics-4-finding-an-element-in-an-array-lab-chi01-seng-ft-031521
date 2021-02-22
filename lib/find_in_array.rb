@@ -1,7 +1,7 @@
 require 'pry' 
 
 def find_element_index(array, value_to_find)
-  #binding.pry 
+  binding.pry 
   length = array.length 
   #binding.pry 
   length.times do |i|
