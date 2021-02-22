@@ -13,4 +13,4 @@ def find_element_index(array, value_to_find)
   index_of_value
 end
 
-puts find_element_index([1, 2, 3, 4], 4)
+puts find_element_index([1, 2, 3, 4], 5)
